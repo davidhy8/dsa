@@ -2,4 +2,4 @@
 
 **Learning roadmap**
 
-![](https://roadmap.sh/datastructures-and-algorithms)
+![](https://github.com/davidhy8/dsa/blob/main/roadmap.jpg)
